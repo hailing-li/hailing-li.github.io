@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Hailing Li",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://hailing-li.github.io/images/hailing.jpg",
+    "email": "hailing@hawaii.edu",
+    "phone": "808-589-6694",
+    "website": "https://hailing-li.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "2114 Kahaha St",
+      "postalCode": "96819",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,24 +17,19 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "hailing-li",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Hailing Li",
+        "url": "http://linkedin.com/in/hailing-li-835128133"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "Techhui",
+        "username": "Hailing Li",
+        "url": "http://techhui.com/profile/HailingLi"
       },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
