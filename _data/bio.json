@@ -34,10 +34,8 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -46,7 +44,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Network Analysis",
       "keywords": [
       ]
     }
@@ -57,11 +55,11 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
+        "R",
         "Java",
+        "HTML",
+        "CSS",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -71,8 +69,6 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
@@ -83,7 +79,7 @@
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.57",
       "courses": [
       ]
     }
