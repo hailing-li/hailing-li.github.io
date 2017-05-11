@@ -60,14 +60,15 @@
         "HTML",
         "CSS",
         "Javascript",
+        "Semantic UI",
+        "Meteor",
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows",
         "Git/GitHub",
       ]
     }
@@ -81,6 +82,10 @@
       "endDate": "Present",
       "gpa": "3.57",
       "courses": [
+        "Software Enginering", 
+        "Algorithm", 
+        "Discrete Math",
+        "Linear Algebra"
       ]
     }
   ],
