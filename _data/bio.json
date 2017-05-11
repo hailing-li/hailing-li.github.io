@@ -94,7 +94,6 @@
     {
       "Experience": "Rearch at University of Hawaii Manoa",
       "Project Name": "Reliability of Punching Shear Strength Prediction for Existing Buildings"
-      "startDate": "June, 2016",
       "endDate": "December, 2016",
       "summary": "An engineering project, in which I used R to performed Mont Carlo Simulation and statistical analysis on historical building code, to find one that can increase the capacity of the existing structure without failure, so that they doesn't have to be rebuilt with current building code.",
     }
