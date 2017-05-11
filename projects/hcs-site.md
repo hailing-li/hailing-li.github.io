@@ -8,7 +8,7 @@ date: 2016
 labels:
   - Bootstrap
   - Website
-summary: This is my personal Bootstrap website developed with the intention of putting my Dad's business online.
+summary: This is Bootstrap website developed with the intention of putting my Dad's business online.
 ---
 
 <img width="700px" src="https://github.com/hailing-li/hailing-li.github.io/blob/master/images/hcs-site.png"/>
