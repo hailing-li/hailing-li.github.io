@@ -1,4 +1,12 @@
-
+---
+layout: essay
+type: essay
+title: Stock Analysis
+date: 2017-09-05
+labels:
+  - Data Analysis
+  - Programming
+---
 
 ```python
 #matplotlib style 
